@@ -38,4 +38,5 @@ When you buy / sell or Exchange INRDC with Waves or Bitcoin, You must need to pa
 
 ### INRDT/BTC - Coming Soon
 
+![](https://1.bp.blogspot.com/-6UDPbHseSDg/XIk-tVojMVI/AAAAAAAAAAs/U4AT8aupLn8K4Om-l6L0pyn1BCB1A8V1gCLcBGAs/s640/INRDT-WAVES-DEX.jpg)
 
