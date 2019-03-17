@@ -17,8 +17,12 @@ INRDT ( Indian Rupee's Digi Token ) is open source and decentralized stable coin
 
 ##### Block Explorer : [https://wavesexplorer.com/tx/DYoHC52tNRi1mhAfdLALSgHW6vTyiPdjy3bNtrgEpChg](https://wavesexplorer.com/tx/DYoHC52tNRi1mhAfdLALSgHW6vTyiPdjy3bNtrgEpChg)
 
-### Web Wallet: [https://github.com/inrdt/inrdt](https://github.com/inrdt/inrdt)
+#### Web Wallet: [https://github.com/inrdt/inrdt](https://github.com/inrdt/inrdt)
+
+#### Source Code: [https://github.com/inrdt/inrdt](https://github.com/inrdt/inrdt)
+
 ##### Website: [https://inrdigitoken.blogspot.com/](https://inrdigitoken.blogspot.com/)
+
 
 ##### Announcement: [https://bitcoingarden.org/forum/index.php?topic=67766.0](https://bitcoingarden.org/forum/index.php?topic=67766.0)
 ##### Twitter: [https://twitter.com/inrdt1](https://twitter.com/inrdt1)
