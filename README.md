@@ -36,7 +36,6 @@ When you buy / sell or Exchange INRDC with Waves or Bitcoin, You must need to pa
 ## Live Trade 
 ### [INRDT/WAVES](https://client.wavesplatform.com/dex-demo?%20%20assetId2=WAVES&assetId1=DYoHC52tNRi1mhAfdLALSgHW6vTyiPdjy3bNtrgEpChg) 
 
-## INRDT/BTC
-### [INRDT/BTC - Coming Soon]
+### INRDT/BTC - Coming Soon
 
 
