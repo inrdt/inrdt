@@ -31,7 +31,12 @@ You can transfer / send any of amount in INRDT you need to pay a fix transaction
 When you buy / sell or Exchange INRDC with Waves or Bitcoin, You must need to pay trading fee as 0.003 WAVES on every trade order.
 
 # BUY, SELL AND TRADE INRDT 
-![](https://1.bp.blogspot.com/-55GU6-QVxHA/XIk-iSXTHDI/AAAAAAAAAAo/Z9RjaixMKJAvyd-dIQvznocVKJjwYYwpACLcBGAs/s320/INRDT-EXCHANGE-WITH-WAVES.jpg)
+![https://1.bp.blogspot.com/-55GU6-QVxHA/XIk-iSXTHDI/AAAAAAAAAAo/Z9RjaixMKJAvyd-dIQvznocVKJjwYYwpACLcBGAs/s320/INRDT-EXCHANGE-WITH-WAVES.jpg](https://1.bp.blogspot.com/-55GU6-QVxHA/XIk-iSXTHDI/AAAAAAAAAAo/Z9RjaixMKJAvyd-dIQvznocVKJjwYYwpACLcBGAs/s320/INRDT-EXCHANGE-WITH-WAVES.jpg)
 
+## Live Trade 
+### [INRDT/WAVES](https://client.wavesplatform.com/dex-demo?%20%20assetId2=WAVES&assetId1=DYoHC52tNRi1mhAfdLALSgHW6vTyiPdjy3bNtrgEpChg) 
+
+## INRDT/BTC
+### [INRDT/BTC - Coming Soon]
 
 
