@@ -16,3 +16,22 @@ INRDT ( Indian Rupee's Digi Token ) is open source and decentralized stable coin
 ##### Asset Info : [https://dev.pywaves.org/assets/DYoHC52tNRi1mhAfdLALSgHW6vTyiPdjy3bNtrgEpChg](https://dev.pywaves.org/assets/DYoHC52tNRi1mhAfdLALSgHW6vTyiPdjy3bNtrgEpChg)
 
 ##### Block Explorer : [https://wavesexplorer.com/tx/DYoHC52tNRi1mhAfdLALSgHW6vTyiPdjy3bNtrgEpChg](https://wavesexplorer.com/tx/DYoHC52tNRi1mhAfdLALSgHW6vTyiPdjy3bNtrgEpChg)
+
+
+## WHY WE NEED INRDT
+Its can use to send, receive, shop, trade and store and exchange with Waves, Bitcoin, Ethereum cryptocurrencies.
+
+## FUTURE MARKET PRICE
+INRDT | Its price grow up from 0.00000001 WAVES to 0.009 WAVES .INRDT is not reissueable tokens, its supply is limited only ( 1,000,000,000,000.000000 INRDT ) 1000 Billion Tokens.No supported to INR.
+
+## TRANSACTION FEE
+You can transfer / send any of amount in INRDT you need to pay a fix transaction fee as 0.001 WAVES on every transaction. 
+
+## Trading / Exchange Fee
+When you buy / sell or Exchange INRDC with Waves or Bitcoin, You must need to pay trading fee as 0.003 WAVES on every trade order.
+
+# BUY, SELL AND TRADE INRDT 
+![](https://1.bp.blogspot.com/-55GU6-QVxHA/XIk-iSXTHDI/AAAAAAAAAAo/Z9RjaixMKJAvyd-dIQvznocVKJjwYYwpACLcBGAs/s320/INRDT-EXCHANGE-WITH-WAVES.jpg)
+
+
+
