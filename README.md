@@ -7,12 +7,12 @@ INRDT ( Indian Rupee's Digi Token ) is open source and decentralized stable coin
 ![TokenInfo](https://2.bp.blogspot.com/-ZI2J9NDHoAc/XIk-J-iL3PI/AAAAAAAAAAg/P_zLWFoJGFYpBvCB5v4cjzkFNyfgGDU1ACEwYBhgL/s1600/INRDT-Token-Details.jpg)
 
 ## ASSET DETAILS
-Asset ID : DYoHC52tNRi1mhAfdLALSgHW6vTyiPdjy3bNtrgEpChgToken 
+#####Asset ID : DYoHC52tNRi1mhAfdLALSgHW6vTyiPdjy3bNtrgEpChgToken 
 
-Issuer ID : 3PAUosSVQh5PiiUst8rQMKEBk1n3i5HspoX
+#####Issuer ID : 3PAUosSVQh5PiiUst8rQMKEBk1n3i5HspoX
 
-Platform : [https://wavesplatform.com/products-token](https://wavesplatform.com/products-token)
+#####Platform : [https://wavesplatform.com/products-token](https://wavesplatform.com/products-token)
 
-Asset Info : [https://dev.pywaves.org/assets/DYoHC52tNRi1mhAfdLALSgHW6vTyiPdjy3bNtrgEpChg](https://dev.pywaves.org/assets/DYoHC52tNRi1mhAfdLALSgHW6vTyiPdjy3bNtrgEpChg)
+#####Asset Info : [https://dev.pywaves.org/assets/DYoHC52tNRi1mhAfdLALSgHW6vTyiPdjy3bNtrgEpChg](https://dev.pywaves.org/assets/DYoHC52tNRi1mhAfdLALSgHW6vTyiPdjy3bNtrgEpChg)
 
-Block Explorer : [https://wavesexplorer.com/tx/DYoHC52tNRi1mhAfdLALSgHW6vTyiPdjy3bNtrgEpChg](https://wavesexplorer.com/tx/DYoHC52tNRi1mhAfdLALSgHW6vTyiPdjy3bNtrgEpChg)
+#####Block Explorer : [https://wavesexplorer.com/tx/DYoHC52tNRi1mhAfdLALSgHW6vTyiPdjy3bNtrgEpChg](https://wavesexplorer.com/tx/DYoHC52tNRi1mhAfdLALSgHW6vTyiPdjy3bNtrgEpChg)
