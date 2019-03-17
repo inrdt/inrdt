@@ -7,7 +7,7 @@ INRDT ( Indian Rupee's Digi Token ) is open source and decentralized stable coin
 ![TokenInfo](https://2.bp.blogspot.com/-ZI2J9NDHoAc/XIk-J-iL3PI/AAAAAAAAAAg/P_zLWFoJGFYpBvCB5v4cjzkFNyfgGDU1ACEwYBhgL/s1600/INRDT-Token-Details.jpg)
 
 ## ASSET DETAILS
-##### Asset ID : DYoHC52tNRi1mhAfdLALSgHW6vTyiPdjy3bNtrgEpChgToken 
+##### Asset ID : DYoHC52tNRi1mhAfdLALSgHW6vTyiPdjy3bNtrgEpChg
 
 ##### Issuer ID : 3PAUosSVQh5PiiUst8rQMKEBk1n3i5HspoX
 
