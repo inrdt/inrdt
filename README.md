@@ -50,3 +50,8 @@ When you buy / sell or Exchange INRDC with Waves or Bitcoin, You must need to pa
 
 ![](https://1.bp.blogspot.com/-6UDPbHseSDg/XIk-tVojMVI/AAAAAAAAAAs/U4AT8aupLn8K4Om-l6L0pyn1BCB1A8V1gCLcBGAs/s640/INRDT-WAVES-DEX.jpg)
 
+## NOTE: This application is available for any Corporate or Financial Institutions to use as a Payment Gateway. Please feel free to download and use accordingly. You can download source Code below 
+
+##### Source Code: [https://github.com/inrdt/inrdt](https://github.com/inrdt/inrdt)
+
+
